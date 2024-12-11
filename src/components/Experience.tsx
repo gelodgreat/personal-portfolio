@@ -8,7 +8,7 @@ const experiences = [
 		title: 'Senior Mobile Developer',
 		company: 'Blackpepper (Auckland, New Zealand)',
 		period: 'Aug 2022 - Dec 2024',
-		description: 'Developed and maintained 6 mobile applications for e-commerce applications targeting AU and NZ markets, and implemented CI/CD pipelines.',
+		description: 'Developed and maintained six e-commerce mobile applications for the AU and NZ markets, focusing on performance optimization, seamless user experience, and efficient deployment through CI/CD pipeline integration.',
 		achievements: [
 			<>
 				<b>Mobile Application Development: </b>Developed and maintained six mobile e-commerce applications using React Native and related technologies, ensuring high performance, seamless functionality, and exceptional user experience.
@@ -34,7 +34,7 @@ const experiences = [
 		title: 'Lead Mobile Developer',
 		company: 'FTBLRLIFE (United States of America)',
 		period: 'Nov 2022',
-		description: 'Developed and maintained mobile application using React Native.',
+		description: 'Developed and maintained scalable, cross-platform mobile applications using React Native, ensuring seamless functionality, consistent user experiences, and optimized performance.',
 		achievements: [
 			<>
 				<b>Project Management Excellence: </b>Utilized ClickUp for effective project management, improving issue tracking and reporting efficiency by 70%.
@@ -78,7 +78,7 @@ const experiences = [
 		title: 'Freelance Senior Mobile Developer',
 		company: 'Urban.com.au (Melbourne, Australia)',
 		period: 'Nov 2022 - Apr 2023',
-		description: 'Developed and maintained mobile application using React Native.',
+		description: 'Developed and maintained a cross-platform mobile application using React Native, ensuring seamless performance, scalability, and user-friendly design.',
 		achievements: [
 			<>
 				<b>Feature Development: </b>Spearheaded the development of new features to enhance the app’s functionality, resulting in a significantly improved user experience.
@@ -107,7 +107,8 @@ const experiences = [
 		title: 'Senior Software Developer',
 		company: 'StationFive/Adaca (Sydney, Australia)',
 		period: 'Aug 2020 - Aug 2022',
-		description: 'Built and maintained responsive web applications and mobile applications.',
+		description:
+			'Built and maintained responsive web and mobile applications, delivering seamless user experiences and scalable solutions across devices and platforms. Leveraged modern technologies to optimize performance, enhance functionality, and ensure compatibility. Focused on intuitive design and maintainability to meet user and business needs effectively.',
 		achievements: [
 			<>
 				<b>Mobile & Web Development:</b> Developed and maintained web and mobile applications using React, React Native, Redux, and Redux-Saga, ensuring seamless cross-platform functionality and performance.
@@ -145,7 +146,8 @@ const experiences = [
 		title: 'Lead Mobile Developer',
 		company: 'Taply, Inc - (Toronto, Canada)',
 		period: 'June 2020 - July 2022',
-		description: 'Developed and Maintained a Mobile Application for a NO-CODE Platform running on React Native that’s used by more than 1,000 eCommerce businesses of all sizes and deployed it on Google Play Store and Apple App Store.',
+		description:
+			'Developed and maintained a React Native mobile application for a NO-CODE platform, supporting over 1,000 eCommerce businesses. Deployed the app on Google Play Store and Apple App Store, ensuring scalability, performance, and user-friendly functionality for diverse business needs.',
 		achievements: [
 			<>
 				<b>Mobile App Development & Maintenance:</b> Developed and maintained a React Native mobile application for a no-code platform, serving over 1,000 eCommerce businesses, and deployed it to Google Play Store and Apple App Store.
@@ -192,7 +194,7 @@ const experiences = [
 		title: 'Software Developer & Lead Developer',
 		company: 'Trends and Technologies (Makati, Philippines)',
 		period: 'May 2017 - Aug Sept 2020',
-		description: "Developed Web, Mobile Applications and API that caters to the clients' requirements",
+		description: 'Developed web and mobile applications along with APIs, tailored to meet diverse client requirements. Delivered scalable, user-friendly, and high-performance solutions aligned with client business goals.',
 		achievements: [
 			<>
 				<b>Team Leadership:</b> Led a cross-functional team of 5 developers, consisting of 2 front-end developers, 2 backend developers, and 1 QA engineer, ensuring effective collaboration and timely delivery of projects.

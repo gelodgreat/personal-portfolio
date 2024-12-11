@@ -9,7 +9,20 @@ const education = [
 		school: 'Centro Escolar University',
 		period: '2013 - 2017',
 		description: 'Specialized in Application Development, Networking',
-		achievements: ['Published research paper that boost productivity in one of the school departments', "Dean's Lister", 'Develop a mobile application for the school', 'Developed a desktop application for the school'],
+		achievements: [
+			<>
+				<b>Published Research Paper:</b> Authored a research paper that introduced innovative strategies to enhance productivity in a specific school department, contributing to streamlined operations and measurable improvements in efficiency.
+			</>,
+			<>
+				<b>Dean’s Lister:</b> Consistently recognized for academic excellence, achieving Dean’s List honors for outstanding performance throughout [specify the time period or semesters if possible].
+			</>,
+			<>
+				<b>Mobile Application Development:</b> Designed and developed a user-centric mobile application tailored to meet the school’s needs, providing seamless functionality and enhancing engagement among students and staff.
+			</>,
+			<>
+				<b>Desktop Application Development:</b> Created a robust desktop application for the school to address administrative or operational challenges, ensuring high performance, reliability, and usability.
+			</>,
+		],
 	},
 ];
 
