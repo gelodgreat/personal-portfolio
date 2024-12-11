@@ -92,6 +92,14 @@ const projects = [
 				title: 'Taply',
 				url: 'https://play.google.com/store/apps/details?id=io.taply.initial',
 			},
+			{
+				title: 'Sunbeams Lifestyle',
+				url: 'https://play.google.com/store/apps/details?id=io.taply.sunbeamslifestyle&hl=en_US&gl=US',
+			},
+			{
+				title: 'MyHackerTech',
+				url: 'https://play.google.com/store/apps/details?id=io.taply.myhackertech&hl=en_US&gl=US',
+			},
 		],
 	},
 	{
