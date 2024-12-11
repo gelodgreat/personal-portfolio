@@ -6,7 +6,7 @@ import { ExternalLink, Github } from 'lucide-react';
 const projects = [
 	{
 		title: 'FTBLRLife',
-		description: 'Sports mobile applications that provides opportunities for talented people in the sports industry',
+		description: 'Sports mobile applications that connect and empower talented individuals in the sports industry by showcasing skills, tracking performance, and facilitating networking with scouts, coaches, and organizations.',
 		image: 'https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=800&q=80',
 		tech: ['React', 'Firebase', 'React Native', 'Redux', 'GraphQL', 'Typescript'],
 		live: [
@@ -22,7 +22,7 @@ const projects = [
 	},
 	{
 		title: 'Glassons',
-		description: 'An e-commerce mobile application for Glassons',
+		description: 'A streamlined e-commerce mobile application for Glassons, offering a seamless shopping experience with intuitive navigation, personalized recommendations, secure checkout, and exclusive app-only deals.',
 		image: 'https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=800&q=80',
 		tech: ['React', 'Firebase', 'React Native', 'AWS Amplify', 'GraphQL', 'Typescript'],
 		live: [
@@ -38,7 +38,8 @@ const projects = [
 	},
 	{
 		title: 'Hallensteins',
-		description: 'An e-commerce mobile application for Hallensteins',
+		description:
+			'A modern e-commerce mobile application for Hallensteins, delivering a seamless shopping experience with user-friendly navigation, personalized product recommendations, secure checkout, and exclusive app-only promotions tailored for the brand’s customers.',
 		image: 'https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=800&q=80',
 		tech: ['React', 'Firebase', 'React Native', 'AWS Amplify', 'GraphQL', 'Typescript'],
 		live: [
@@ -53,8 +54,9 @@ const projects = [
 		],
 	},
 	{
-		title: 'RedRat Android',
-		description: 'An e-commerce mobile application for RedRat on Android',
+		title: 'RedRat',
+		description:
+			'A feature-rich e-commerce mobile application for RedRat, offering a seamless shopping experience with intuitive navigation, personalized product suggestions, secure payment options, and exclusive app-only deals, tailored to meet the needs of RedRat customers.',
 		image: 'https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=800&q=80',
 		tech: ['React', 'Firebase', 'React Native', 'AWS Amplify', 'GraphQL', 'Typescript'],
 		live: [
@@ -70,7 +72,8 @@ const projects = [
 	},
 	{
 		title: 'Urban.com.au',
-		description: 'A real estate application for Urban.com.au on iOS',
+		description:
+			'A comprehensive real estate mobile application for Urban.com.au, providing users with seamless property search, personalized recommendations, detailed insights, and streamlined communication with agents, all tailored to enhance the buying, selling, and renting experience.',
 		image: 'https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=800&q=80',
 		tech: ['React', 'Firebase', 'React Native', 'Redux', 'Typescript'],
 		live: [
@@ -83,7 +86,7 @@ const projects = [
 	{
 		title: 'Taply Mobile App',
 		description:
-			'An eCommerce mobile application that is integrated with Shopify and built using React Native, with more than 2000 clients and over 300 applications deployed on the Playstore and AppStore, Also this manages an automation deployment of the app from creating and listing the app upto releasing to the store.',
+			'A robust eCommerce mobile application built with React Native and seamlessly integrated with Shopify, serving over 2,000 clients with more than 300 apps deployed on the Play Store and App Store. It features an automated deployment process, managing everything from app creation and customization to listing and release on the respective stores.',
 		image: 'https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=800&q=80',
 
 		tech: ['React', 'Firebase', 'React Native', 'Redux', 'Typescript'],
@@ -104,7 +107,8 @@ const projects = [
 	},
 	{
 		title: 'SFM Blue Mobile Applications',
-		description: 'An eCommerce mobile app for one of the biggest fishery markets in Australia that helps local vendors buy and sell their goods with various and complex features.',
+		description:
+			'An advanced eCommerce mobile app designed for one of Australia’s largest fishery markets, empowering local vendors to seamlessly buy and sell goods. The app offers a wide range of sophisticated features tailored to meet the unique needs of the fishery industry.',
 		image: 'https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=800&q=80',
 		tech: ['React', 'Firebase', 'React Native', 'Redux', 'Typescript'],
 		live: [
@@ -129,7 +133,8 @@ const projects = [
 
 	{
 		title: 'ShoreTrade Mobile Applications',
-		description: 'An eCommerce mobile app for one of the biggest fishery markets in Australia that helps local vendors buy and sell their goods with various and complex features.',
+		description:
+			'An advanced eCommerce mobile app designed for one of Australia’s largest fishery markets, empowering local vendors to seamlessly buy and sell goods. The app offers a wide range of sophisticated features tailored to meet the unique needs of the fishery industry.',
 		image: 'https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=800&q=80',
 		tech: ['React', 'Firebase', 'React Native', 'Redux', 'Typescript'],
 		live: [
