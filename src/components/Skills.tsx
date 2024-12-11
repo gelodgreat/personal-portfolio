@@ -7,22 +7,27 @@ const skillCategories = [
 	{
 		title: 'Frontend Development',
 		icon: Layout,
-		skills: ['React', 'TypeScript', 'Next.js', 'Vite', 'Tailwind CSS', 'Redux', 'Zustand'],
+		skills: ['React', 'TypeScript', 'Next.js', 'Vite', 'Tailwind CSS', 'Material-UI', 'Styled Components'],
+	},
+	{
+		title: 'React State Management',
+		icon: Layout,
+		skills: ['Redux', 'Zustand', 'React Query'],
 	},
 	{
 		title: 'Mobile Development',
 		icon: Phone,
-		skills: ['React Native', 'TypeScript', 'Firebase', 'Expo', 'Supabase', 'GraphQL', 'Amplify'],
+		skills: ['React Native', 'Expo', 'Amplify'],
 	},
 	{
 		title: 'Backend Development',
 		icon: Server,
-		skills: ['Node.js', 'Python', 'Express', 'GraphQL', 'REST APIs'],
+		skills: ['Node.js', 'Python', 'Express', 'GraphQL', 'REST API'],
 	},
 	{
 		title: 'Database',
 		icon: Database,
-		skills: ['PostgreSQL', 'MongoDB', 'Firebase', 'MySQL'],
+		skills: ['PostgreSQL', 'MongoDB', 'Firebase', 'Firestore', 'MySQL', 'Supabase'],
 	},
 	{
 		title: 'DevOps',
