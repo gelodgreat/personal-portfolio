@@ -171,7 +171,7 @@ export const Projects = () => {
 										</span>
 									))}
 								</div>
-								<div className='flex space-x-4'>
+								<div className={`flex ${project.live.length > 2 ? 'flex-col space-y-4' : 'space-x-8'}`}>
 									{project.github && (
 										<a href={project.github} className='text-gray-300 hover:text-emerald-400 transition-colors'>
 											<Github className='w-6 h-6' />
@@ -180,7 +180,7 @@ export const Projects = () => {
 
 									{project.live &&
 										project.live.map((link, linkIndex) => (
-											<a key={linkIndex} href={link.url} className='text-gray-300 hover:text-emerald-400 transition-colors'>
+											<a key={linkIndex} href={link.url} className='text-gray-300 hover:text-emerald-400 transition-colors block'>
 												<span className='underline'>{link.title}</span>
 											</a>
 										))}
