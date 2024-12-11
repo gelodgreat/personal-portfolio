@@ -164,6 +164,7 @@ export const Projects = () => {
 		threshold: 0.1,
 	});
 
+
 	return (
 		<section className='py-20 bg-gray-900' id='projects'>
 			<div className='container mx-auto px-4'>
@@ -185,8 +186,8 @@ export const Projects = () => {
 									))}
 								</div>
 								<div className='grid grid-cols-2 gap-4'>
-									{project.github && (
-										<a href={project.github} className='text-gray-300 hover:text-emerald-400 transition-colors'>
+									{project?.github && (
+										<a href={project?.github} className='text-gray-300 hover:text-emerald-400 transition-colors'>
 											<Github className='w-6 h-6' />
 										</a>
 									)}
