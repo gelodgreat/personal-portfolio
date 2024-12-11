@@ -171,7 +171,7 @@ export const Projects = () => {
 										</span>
 									))}
 								</div>
-								<div className={`flex ${project.live.length > 2 ? 'flex-col space-y-4' : 'space-x-8'}`}>
+								<div className='flex space-x-4'>
 									{project.github && (
 										<a href={project.github} className='text-gray-300 hover:text-emerald-400 transition-colors'>
 											<Github className='w-6 h-6' />
